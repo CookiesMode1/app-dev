@@ -1,8 +1,8 @@
 # app-dev
 My first repository
 Movies
-1. The Nun
-2. Transformer
-3. Trolls
-4. Shark Attack
-5. Jaw
+1. The Nun - Horror 
+2. Transformer - Action 
+3. Trolls - Musical
+4. Shark Attack - Action 
+5. Jaw - Action 
